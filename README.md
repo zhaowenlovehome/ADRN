@@ -13,4 +13,5 @@ Adaptive Densely Residual Network for Image Super-Resolution
 
 网络结构：
 
-![](./)
+![](./f1.png)
+![](./f2.png)
