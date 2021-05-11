@@ -1,4 +1,4 @@
-Adaptive-Densely-Residual-for-Image-Super-Resolution
+Adaptive Densely Residual Network for Image Super-Resolution
 
 训练/测试代码详见:EDSR https://github.com/thstkdgus35/EDSR-PyTorch
 #参考 EDSR WDSR RDN AWSRN ESPCN
